@@ -1,11 +1,4 @@
 # Nome do Projeto
-
-![GitHub repo size](https://img.shields.io/github/repo-size/acaf02/README-TEMPLATE?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/acaf02/README-TEMPLATE?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/acaf02/README-TEMPLATE?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/acaf02/README-TEMPLATE?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/acaf02/README-TEMPLATE?style=for-the-badge)
-
 ---
 ## 🛠️ Sobre o Projeto
 
