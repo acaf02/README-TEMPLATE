@@ -1,5 +1,5 @@
 # Nome do Projeto
----
+
 ## 🛠️ Sobre o Projeto
 
 ![Exemplo de Imagem](imagem.png) 
@@ -15,13 +15,15 @@ A motivação por trás desse projeto é [explicar o problema ou a motivação p
 ---
 ## 🟢 Status do Projeto
 
-Este projeto está [em andamento/concluído/atrasado]. Confira os detalhes abaixo sobre a próxima versão:
+Este projeto está [em andamento/concluído/atrasado]. 
 
-- [ ] Implementação inicial
-- [ ] Adicionar novas funcionalidades
-- [ ] Testes e correção de bugs
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
 
-Se você quiser ajudar a acelerar o desenvolvimento, abra uma issue ou envie uma pull request!
+- [x] Tarefa 1
+- [x] Tarefa 2
+- [x] Tarefa 3
+- [ ] Tarefa 4
+- [ ] Tarefa 5
 
 ---
 
@@ -89,17 +91,6 @@ Envie para o seu fork `git push origin nome-da-feature`.<br>
 Abra uma pull request para o repositório original.<br>
 
 🔄 Antes de contribuir, verifique se o código está funcionando corretamente. Execute os testes ou faça a revisão do código para garantir a qualidade!
-
-## 🚧 Roadmap
-
-Aqui está o plano de desenvolvimento para o futuro do projeto:
-
-Versão 1.1: Adicionar autenticação via OAuth <br>
-Versão 1.2: Suporte para deploy em Kubernetes <br>
-Versão 2.0: Redesign da interface de usuário <br>
-Versão 2.5: Implementação de notificações em tempo real com WebSockets <br>
-
-Sinta-se à vontade para sugerir novos recursos ou melhorias abrindo uma issue.
 
 ## 📜 Licença
 
