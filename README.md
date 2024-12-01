@@ -6,11 +6,6 @@
 
 > Este projeto é uma aplicação moderna que resolve o problema [descrição breve do problema]. Ele utiliza [tecnologia principal] e oferece uma solução escalável para [finalidade do projeto]. O foco é [o que o projeto faz].
 
-**Principais Funcionalidades**:
-- [Funcionalidade 1]
-- [Funcionalidade 2]
-- [Funcionalidade 3]
-
 ---
 
 ## 🎯 Motivação
@@ -71,7 +66,9 @@ npm install
 
 ```
 
-## 🏃 Rodando o Projeto
+## 🚀 Uso
+
+Este projeto oferece funcionalidades principais como [explique o uso principal do aplicativo, como registro de usuário, visualização de dados, etc.]. Abaixo estão os passos básicos para começar a usar o projeto:
 
 Depois de instalar o projeto, você pode rodá-lo com o seguinte comando:
 ```bash
@@ -79,23 +76,6 @@ yarn start   # ou npm start
 
 ```
 Isso iniciará o servidor e abrirá o aplicativo em seu navegador na URL: http://localhost:3000.
-
-## 🚀 Uso
-
-Este projeto oferece funcionalidades principais como [explique o uso principal do aplicativo, como registro de usuário, visualização de dados, etc.]. Abaixo estão os passos básicos para começar a usar o projeto:
-
-# Inicie o servidor
-```bash
-node server.js
-
-```
-
-## 🖼️ Exemplo de Uso
-```bash
-# Comando para rodar o servidor
-node app.js
-
-```
 
 ## 🤝 Contribuições
 
@@ -117,8 +97,7 @@ Aqui está o plano de desenvolvimento para o futuro do projeto:
 Versão 1.1: Adicionar autenticação via OAuth <br>
 Versão 1.2: Suporte para deploy em Kubernetes <br>
 Versão 2.0: Redesign da interface de usuário <br>
-
-    Versão 2.5: Implementação de notificações em tempo real com WebSockets
+Versão 2.5: Implementação de notificações em tempo real com WebSockets <br>
 
 Sinta-se à vontade para sugerir novos recursos ou melhorias abrindo uma issue.
 
@@ -126,4 +105,4 @@ Sinta-se à vontade para sugerir novos recursos ou melhorias abrindo uma issue.
 
 Este projeto está sob a Licença MIT. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
-## ⭐ Gostou do projeto? Deixe uma estrela para ajudar a comunidade!
+### ⭐ Gostou do projeto? Deixe uma estrela para ajudar a comunidade!
